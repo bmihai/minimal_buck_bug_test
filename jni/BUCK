@@ -1,0 +1,8 @@
+ndk_library(
+  name = 'bugtest',
+  deps = [
+  ],
+  visibility = [ 'PUBLIC' ],                                                                                                      
+  flags = ['NDK_LOG=1'],
+)
+
