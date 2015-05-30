@@ -1,20 +1,3 @@
-Thanks for installing Buck!
+This is a minimal test project that illustrates the problem described in
 
-In this quickstart project, the file apps/myapp/BUCK defines the build rules. 
-
-At this point, you should move into the project directory and try running:
-
-    buck build //apps/myapp:app
-
-or:
-
-    buck build app
-
-See .buckconfig for a full list of aliases.
-
-If you have an Android device connected to your computer, you can also try:
-
-    buck install app
-
-This information is located in the file README.md if you need to access it
-later.
+    https://github.com/facebook/buck/issues/306
